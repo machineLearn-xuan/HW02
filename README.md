@@ -1,4 +1,4 @@
-# HW02
+# HW02 - Completed
 
 Some exercises to get started with Python and lists, dicts and data in Python.
 
